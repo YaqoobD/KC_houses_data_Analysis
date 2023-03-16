@@ -29,6 +29,8 @@ The dataset consists of the following columns:
 
 With this dataset, a variety of analyses and models can be created to better understand the real estate market trends in King County and Seattle, and to make predictions about future trends and prices.
 
+# Questions
+
 We have used this dataset to answer several questions, including:
 
 * What is the overall distribution of house prices?
