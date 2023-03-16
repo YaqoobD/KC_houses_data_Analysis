@@ -28,3 +28,11 @@ The dataset consists of the following columns:
 * sqft_lot15: The average square footage of the land lots of the nearest 15 neighbors.
 
 With this dataset, a variety of analyses and models can be created to better understand the real estate market trends in King County and Seattle, and to make predictions about future trends and prices.
+
+We have used this dataset to answer several questions, including:
+
+* What is the overall distribution of house prices?
+* How many days does the dataset span for?
+* What are the dates that had the most sales?
+* What are the years in which home sales took place in 2014 and 2015?
+* Which homes were sold between May 1st, 2014 and May 1st, 2015, and among those homes, how many were waterfront properties?
