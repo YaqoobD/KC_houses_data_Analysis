@@ -1,8 +1,8 @@
-# Dataset Description
+## Dataset Description 📊
 
 The King County House Sales dataset contains information on house sales in King County, which includes the city of Seattle. The dataset includes information on homes sold between May 2014 and May 2015.
 
-# Columns
+## Columns 📋
 The dataset consists of the following columns:
 
 * id: A unique identifier for each home sold.
@@ -29,7 +29,7 @@ The dataset consists of the following columns:
 
 With this dataset, a variety of analyses and models can be created to better understand the real estate market trends in King County and Seattle, and to make predictions about future trends and prices.
 
-# Questions
+## Questions ❓
 
 We have used this dataset to answer several questions, including:
 
